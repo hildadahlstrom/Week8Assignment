@@ -6,7 +6,6 @@ body{
 
 h1{
     color: rgb(202, 202, 202);
-    text-align: center
 }
 h3{
     color:lightcoral
@@ -24,6 +23,7 @@ img{
 }
 
 .link-div{
+    margin-right: 50%;
     background-color:white;
     border-style: double;
     border-color: darkslategray;
@@ -96,4 +96,3 @@ th{
     color: rgb(79, 0, 110);
     background-color:rgb(107, 107, 107)
 }
-
